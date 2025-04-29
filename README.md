@@ -4,7 +4,6 @@ A React Native library to easily create an amazing animated loading skeleton pla
 
 ![ezgif-3058f18e44df2a](https://github.com/user-attachments/assets/c5c12635-784b-4aec-b7fb-2f3a1bd7257a)
 
-
 ## 📦 Installation
 
 ```bash
@@ -16,15 +15,6 @@ or
 ```bash
 yarn add react-native-animated-skeletons
 ```
-
-> **Note:**  
-> You must have `react-native-reanimated` installed and properly configured.
-
-```bash
-npm install react-native-reanimated
-```
-
-Follow the [Reanimated installation guide](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started) if you haven't already.
 
 ## 🚀 Usage
 
