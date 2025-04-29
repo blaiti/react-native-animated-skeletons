@@ -1,6 +1,9 @@
-# React Native Animated Skeleton ✨
+# React Native Animated Skeletons ✨
 
 A React Native library to easily create an amazing animated loading skeleton placeholder.
+
+![ezgif-3058f18e44df2a](https://github.com/user-attachments/assets/c5c12635-784b-4aec-b7fb-2f3a1bd7257a)
+
 
 ## 📦 Installation
 
